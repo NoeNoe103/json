@@ -1,16 +1,5 @@
 {
     "report": {
-        "parsererror": {
-            "h3": [
-                "This page contains the following errors:",
-                "Below is a rendering of the page up to the first error."
-            ],
-            "div": {
-                "_style": "font-family:monospace;font-size:12px",
-                "__text": "error on line 65 at column 22: error parsing attribute name\n"
-            },
-            "_style": "display: block; white-space: pre; border: 2px solid #c77; padding: 0 1em 0 1em; margin: 1em; background-color: #fdd; color: black"
-        },
         "head": {
             "title": "府県天気予報",
             "EditDateTime": "2010/03/03 05:50:00",
