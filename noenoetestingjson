@@ -2,59 +2,59 @@
     "report": {
         "head": {
             "title": "府県天気予報",
-            "EditDateTime": "2010/03/03 05:50:00",
-            "forecast_format": "5時形式",
-            "type": "5時発表"
+            "EditDateTime": "2016/02/11 11:55:01",
+            "forecast_format": "11時形式",
+            "type": "11時発表"
         },
         "body": {
             "location": {
-                "editorial_Office": "網走地方気象台",
-                "weather_location": "網走・北見・紋別地方/網走地方",
-                "temp_location": "網走",
-                "location_ido": "35.69 ",
-                "location_kdo": "139.76 ",
+                "editorial_Office": "銚子地方気象台",
+                "weather_location": "千葉県 北東部",
+                "temp_location": "銚子",
+                "location_ido": "35.74",
+                "location_kdo": "140.86",
                 "forecast": [
                     {
-                        "date": "2010/03/03",
+                        "date": "2016/02/11",
                         "weather_no": "100",
                         "weather_str_short": "晴れ",
                         "weather_str_long": "晴れ",
-                        "wind": "北 ２３区西部 では 北 やや強く",
-                        "wave": "0.5 後 1 m",
+                        "wind": "北の風後東の風",
+                        "wave": "2 ｍうねり を伴う",
                         "tmp_min": "",
-                        "tmp_max": "14 ℃",
+                        "tmp_max": "9 ℃",
                         "tmp_min_diff": "",
-                        "tmp_max_diff": "5",
+                        "tmp_max_diff": "0",
                         "pop_00-06": "",
-                        "pop_06-12": "10 ％",
+                        "pop_06-12": "",
                         "pop_12-18": "0 ％",
                         "pop_18-24": "0 ％",
                         "_param": "today"
                     },
                     {
-                        "date": "2010/03/04",
-                        "weather_no": "214",
-                        "weather_str_short": "曇りのち雨",
-                        "weather_str_long": "くもり 昼過ぎ から 雨",
-                        "wind": "北 後 南東 海上 では 後 南東 やや強く",
-                        "wave": "0.5 後 1 m",
-                        "tmp_min": "4 ℃",
-                        "tmp_max": "9 ℃",
-                        "tmp_min_diff": "-1",
-                        "tmp_max_diff": "-5",
-                        "pop_00-06": "10 ％",
-                        "pop_06-12": "20 ％",
-                        "pop_12-18": "70 ％",
-                        "pop_18-24": "80 ％",
+                        "date": "2016/02/12",
+                        "weather_no": "111",
+                        "weather_str_short": "晴れ後曇り",
+                        "weather_str_long": "晴れ 昼前 から くもり",
+                        "wind": "東の風後南西の風 海上 では後南西の風やや強く",
+                        "wave": "2 ｍ後2.5 ｍうねり を伴う",
+                        "tmp_min": "3 ℃",
+                        "tmp_max": "13 ℃",
+                        "tmp_min_diff": "1",
+                        "tmp_max_diff": "4",
+                        "pop_00-06": "0 ％",
+                        "pop_06-12": "0 ％",
+                        "pop_12-18": "10 ％",
+                        "pop_18-24": "20 ％",
                         "_param": "tomorrow"
                     },
                     {
-                        "date": "2010/03/05",
-                        "weather_no": "",
-                        "weather_str_short": "",
-                        "weather_str_long": "",
-                        "wind": "",
-                        "wave": "",
+                        "date": "2016/02/13",
+                        "weather_no": "200",
+                        "weather_str_short": "曇り",
+                        "weather_str_long": "くもり",
+                        "wind": "南西の風やや強く",
+                        "wave": "2.5 ｍうねり を伴う",
                         "tmp_min": "",
                         "tmp_max": "",
                         "tmp_min_diff": "",
@@ -66,7 +66,7 @@
                         "_param": "next"
                     }
                 ],
-                "_id": "0101"
+                "_id": "0316"
             }
         },
         "_lang": "ja"
