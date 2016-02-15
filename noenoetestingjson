@@ -1,74 +1,59 @@
 {
-    "report": {
-        "head": {
-            "title": "府県天気予報",
-            "EditDateTime": "2016/02/11 11:55:01",
-            "forecast_format": "11時形式",
-            "type": "11時発表"
-        },
-        "body": {
-            "location": {
-                "editorial_Office": "銚子地方気象台",
-                "weather_location": "千葉県 北東部",
-                "temp_location": "銚子",
-                "location_ido": "35.74",
-                "location_kdo": "140.86",
-                "forecast": [
-                    {
-                        "date": "2016/02/11",
-                        "weather_no": "100",
-                        "weather_str_short": "晴れ",
-                        "weather_str_long": "晴れ",
-                        "wind": "北の風後東の風",
-                        "wave": "2 ｍうねり を伴う",
-                        "tmp_min": "",
-                        "tmp_max": "9 ℃",
-                        "tmp_min_diff": "",
-                        "tmp_max_diff": "0",
-                        "pop_00-06": "",
-                        "pop_06-12": "",
-                        "pop_12-18": "0 ％",
-                        "pop_18-24": "0 ％",
-                        "_param": "today"
-                    },
-                    {
-                        "date": "2016/02/12",
-                        "weather_no": "111",
-                        "weather_str_short": "晴れ後曇り",
-                        "weather_str_long": "晴れ 昼前 から くもり",
-                        "wind": "東の風後南西の風 海上 では後南西の風やや強く",
-                        "wave": "2 ｍ後2.5 ｍうねり を伴う",
-                        "tmp_min": "3 ℃",
-                        "tmp_max": "13 ℃",
-                        "tmp_min_diff": "1",
-                        "tmp_max_diff": "4",
-                        "pop_00-06": "0 ％",
-                        "pop_06-12": "0 ％",
-                        "pop_12-18": "10 ％",
-                        "pop_18-24": "20 ％",
-                        "_param": "tomorrow"
-                    },
-                    {
-                        "date": "2016/02/13",
-                        "weather_no": "200",
-                        "weather_str_short": "曇り",
-                        "weather_str_long": "くもり",
-                        "wind": "南西の風やや強く",
-                        "wave": "2.5 ｍうねり を伴う",
-                        "tmp_min": "",
-                        "tmp_max": "",
-                        "tmp_min_diff": "",
-                        "tmp_max_diff": "",
-                        "pop_00-06": "",
-                        "pop_06-12": "",
-                        "pop_12-18": "",
-                        "pop_18-24": "",
-                        "_param": "next"
-                    }
-                ],
-                "_id": "0316"
-            }
-        },
-        "_lang": "ja"
+  "report": {
+    "-lang": "ja",
+    "head": {
+      "title": "府県天気予報",
+      "EditDateTime": "2016/02/15 17:55:02",
+      "forecast_format": "17時形式",
+      "type": "17時発表"
+    },
+    "body": {
+      "location": {
+        "-id": "0316",
+        "editorial_Office": "銚子地方気象台",
+        "weather_location": "千葉県 北東部",
+        "temp_location": "銚子",
+        "location_ido": "35.74",
+        "location_kdo": "140.86",
+        "forecast": [
+          {
+            "-param": "today",
+            "date": "2016/02/15",
+            "weather_no": "317",
+            "weather_str_short": "雨か雪後曇り",
+            "weather_str_long": "雨か雪 夜 くもり",
+            "wind": "北の風やや強く",
+            "wave": "3 ｍ後2.5 ｍうねり を伴う",
+            "pop_18-24": "30 ％"
+          },
+          {
+            "-param": "tomorrow",
+            "date": "2016/02/16",
+            "weather_no": "101",
+            "weather_str_short": "晴れ時々曇り",
+            "weather_str_long": "晴れ 時々 くもり",
+            "wind": "北の風後南の風 海上 では西の風やや強く",
+            "wave": "2.5 ｍ後2 ｍうねり を伴う",
+            "tmp_min": "1 ℃",
+            "tmp_max": "10 ℃",
+            "tmp_min_diff": "-9",
+            "tmp_max_diff": "1",
+            "pop_00-06": "10 ％",
+            "pop_06-12": "0 ％",
+            "pop_12-18": "0 ％",
+            "pop_18-24": "0 ％"
+          },
+          {
+            "-param": "next",
+            "date": "2016/02/17",
+            "weather_no": "101",
+            "weather_str_short": "晴れ時々曇り",
+            "weather_str_long": "晴れ 時々 くもり",
+            "wind": "南西の風後北の風やや強く",
+            "wave": "2.5 ｍうねり を伴う"
+          }
+        ]
+      }
     }
+  }
 }
